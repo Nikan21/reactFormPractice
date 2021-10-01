@@ -1,0 +1,9 @@
+.input{
+    display: flex;
+    flex-direction: column;
+}
+
+.checkAndLink{
+    display: flex;
+    flex-direction: column;
+}
